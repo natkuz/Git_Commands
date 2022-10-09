@@ -10,3 +10,4 @@
 * git branch -d *<название ветки>* – удалить ветку
 * git log --oneline - журнал в компактном варианте
 * git log --graph - журнал в графическом отображении
+## Commands for working with remote repositories
